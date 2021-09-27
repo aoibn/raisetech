@@ -25,3 +25,4 @@ Things you may want to cover:
 
 
 #コミットの練習
+#コミット練習のための編集
