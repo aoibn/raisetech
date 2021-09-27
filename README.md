@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 
-#プルリクエストの練習
+#コミットの練習
